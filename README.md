@@ -1,5 +1,5 @@
 # 2º Projeto Prático - Trilha de dados
-Projeto desenvolvido para o programa Desenvolve Boticário 2024
+Projeto desenvolvido para o programa Desenvolve Boticário 2024 </br>
 Naíme Aiub Virmond
 
 ## Análise de Dados e Predição com Python e Pandas
@@ -23,10 +23,10 @@ Realize uma análise completa usando Python e a biblioteca Pandas numa base de d
 - Seaborn
 - Pickle
 - Scikit Learn
-<\br>
+
 
 ### O estudo conta com visualização, Regressão e limpeza e análise descritiva dos dados e simulador do modelo estimado.
 
-### Para as análises descritivas e código de estimação do modelo de machine learning, acesse:
+### Para as análises descritivas e código de estimação do modelo de machine learning, acesse: <a href="https://github.com/naimeaiub/Modelo-de-regress-o-linear/blob/main/Projeto/An%C3%A1lise%20descritiva%20da%20Regressao%20Linear.ipynb">Análise descritiva da Regressao Linear.ipynb </a>
 
-### Para o simulador do modelo, acesse: 
+### Para o simulador do modelo, acesse: <a href="https://github.com/naimeaiub/Modelo-de-regress-o-linear/blob/main/Projeto/Simulador%20Interativo%20do%20Modelo.ipynb">Simulador Interativo do Modelo.ipynb </a>
